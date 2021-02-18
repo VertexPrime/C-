@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\C++\CppVector\CppVector\CppVector\Source.cpp(20): warning C4172: возвращение адреса локальной или временной переменной : result
+MSVCRTD.lib(exe_main.obj) : error LNK2019: ссылка на неразрешенный внешний символ _main в функции "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ).
+D:\C++\CppVector\CppVector\Debug\CppVector.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
